@@ -24,9 +24,9 @@ const reviewRouter=require("./routes/review.js");
 const userRouter=require("./routes/user.js");
 
 
-//  const dburl=process.env.ATLASDB_URL;
+const dburl=process.env.ATLASDB_URL;
 
-const dburl='mongodb://127.0.0.1:27017/wonderlust'
+// const dburl='mongodb://127.0.0.1:27017/wonderlust'
 main()
   .then((res) => { console.log("Connected to DB"); })
   .catch(err => console.log(err));
@@ -67,12 +67,6 @@ const sessionOptions={
     httpOnly:true,
   }
 };
-
-
-//home root
-// app.get("/", (req, res) => {
-//   res.send("Hi I am Ashis !")
-// })
 
 
 app.use(session(sessionOptions));
