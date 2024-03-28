@@ -3,19 +3,34 @@
 WanderLUST is a comprehensive hotel management system built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides hotel owners with a platform to manage their properties and customers with the ability to view hotel listings, leave reviews, and make bookings.
 
 ## Below Here Are Some Photographs Of The Website
--Here is the main page of the website , shows the listing items (hotels) and the navbar design .
- Added feature -> An advanced **Search Engine Bar , where you can search hotels/rooms based on your own desired requirements .
+- Here is the main page of the website , shows the listing items (hotels) and the navbar design .Added feature -> An advanced Search Engine Bar , where you can search hotels/rooms based on your own desired requirements .
+
 ![Screenshot (281)](https://github.com/Ashis-Mishra07/Deploy/assets/137470813/cd2be17c-8b26-44bf-9658-23f16ce24081)
+
+
 - When a listing item is clicked , it pop out the overall features it provide and its descripton .
+ 
 ![Screenshot (285)](https://github.com/Ashis-Mishra07/Deploy/assets/137470813/b582950c-d610-4974-8a2b-fa58a28df3bf)
--Here I have added a **mapping_feature using mapbox api to provide a approx near about destination of any listing item .
+
+
+- Here I have added a mapping feature using mapbox api to provide a approx near about destination of any listing item .
+
 ![Screenshot (286)](https://github.com/Ashis-Mishra07/Deploy/assets/137470813/1cb1fbc1-497d-4692-bc48-d4de20765e2b)
--Here i centralised the user to add their **reviews based on their experience .
+
+
+- Here i centralised the user to add their reviews based on their experience .
+
 ![Screenshot (287)](https://github.com/Ashis-Mishra07/Deploy/assets/137470813/577643d4-6799-4bc0-a479-59fffc8a8f51)
--Shows a page on website how the reviews of users are presented , and added feature -> The creater of the review can edit or delete their reviews if needed .
+
+
+- Shows a page on website how the reviews of users are presented , and added feature -> The creater of the review can edit or delete their reviews if needed .
+
 ![Screenshot (288)](https://github.com/Ashis-Mishra07/Deploy/assets/137470813/552fec2b-4fa0-4407-80bc-969b2ae4aa65)
--At the end , here it is the footer which contains the owner's profiles and privacy , terms and conditions
+
+
+- At the end , here it is the footer which contains the owner's profiles and privacy , terms and conditions
  and company's encrypted details .
+ 
 ![Screenshot (284)](https://github.com/Ashis-Mishra07/Deploy/assets/137470813/fe3ae2e8-865b-4594-907f-cbc094fd8f02)
 
 
