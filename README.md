@@ -48,7 +48,7 @@ Follow these steps to set up and run the Wanderliust project locally:
 
     6th : Run server - Type command in terminal -> node app.js
 
-7. **Access the Application**: Open your web browser and navigate to `http://localhost:8080` to access the Wanderliust application.
+7. **Access the Application**: Open your web browser and navigate to `http://localhost:3000` to access the Wanderliust application.
 
 
 ## Contributing
