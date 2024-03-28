@@ -2,6 +2,10 @@
 
 WanderLUST is a comprehensive hotel management system built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides hotel owners with a platform to manage their properties and customers with the ability to view hotel listings, leave reviews, and make bookings.
 
+## Below here are some photographs
+![Screenshot (281)](https://github.com/Ashis-Mishra07/Deploy/assets/137470813/cd2be17c-8b26-44bf-9658-23f16ce24081)
+
+
 ## Key Features
 
 - **User Authentication and Authorization**: Secure authentication and authorization using JSON Web Tokens (JWT) and bcrypt for password hashing.
